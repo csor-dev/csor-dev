@@ -5,7 +5,7 @@ I 💚 Open Source, Cloud(GCP/AWS), Cloud native(K8s and a lot more) 🇮🇳
 
 * CKA & CKAD(soon the last one) 😏
 * Love Golang & Rust 👯
-* Learning Web Dev with Vue 3 🌱
+* Learning Rust, Web Dev with Vue 3 & a few other Cloud Native Stuff 🌱
 * Working on an awesome Application right now 🔭. Will Open Source is it in a couple of weeks 😏
 ### ⚡ Fun fact: Despite a lot of Emoji's here I don't use much emoji's. Love em though 😆
 <div>
