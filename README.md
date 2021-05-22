@@ -18,10 +18,12 @@ I 💚 Open Source, Cloud(GCP/AWS), Cloud native(K8s and a lot more) 🇮🇳
 </div>
 
 ![Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=csor-dev&show_icons=true&count_private=true&include_all_commits=true&theme=vue)
-![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csor-dev&layout=compact&langs_count=9&theme=buefy)
 
+<!-- ![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csor-dev&layout=compact&langs_count=9&theme=buefy)
 
+ -->
 <!--
+
 **csor-dev/csor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
