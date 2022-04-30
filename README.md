@@ -1,6 +1,6 @@
 ### Hi there 👋 Yeshwanth here 
 
-I'm currently working on ![CSOR](https://csor.io)
+I'm currently working on [CSOR](https://csor.io)
 
 <!-- 
 
