@@ -1,8 +1,8 @@
 ### Hi there 👋 Yeshwanth here 
 
-<!-- 
 I'm currently working on ![CSOR](https://csor.io)
 
+<!-- 
 
 * [CKA](https://www.credly.com/badges/a080f2b3-cf05-4dee-a9da-444ba628948e) & [CKAD](https://www.credly.com/badges/a2356bac-e601-4653-a066-169d1ac1671c)(soon the last one) 😏
 * Love Golang & Rust 👯
