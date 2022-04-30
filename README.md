@@ -1,6 +1,7 @@
 ### Hi there 👋 Yeshwanth here 
 
-I 💚 Open Source, Cloud(GCP/AWS), Cloud native(K8s and a lot more) 🇮🇳
+<!-- 
+I'm currently working on ![CSOR](https://csor.io)
 
 
 * [CKA](https://www.credly.com/badges/a080f2b3-cf05-4dee-a9da-444ba628948e) & [CKAD](https://www.credly.com/badges/a2356bac-e601-4653-a066-169d1ac1671c)(soon the last one) 😏
@@ -18,7 +19,7 @@ I 💚 Open Source, Cloud(GCP/AWS), Cloud native(K8s and a lot more) 🇮🇳
 
 ![Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=csor-dev&show_icons=true&count_private=true&include_all_commits=true&theme=vue)
 
-<!-- ![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csor-dev&layout=compact&langs_count=9&theme=buefy)
+![Reddy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csor-dev&layout=compact&langs_count=9&theme=buefy)
 
  -->
 <!--
